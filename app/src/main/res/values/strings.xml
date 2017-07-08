@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Destini</string>
+    <string name="start_button">Start</string>
 
     <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
     <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
@@ -11,7 +12,7 @@
     <string name="T2_Ans2">Wait, I know how to change a tire.</string>
 
 
-    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
+    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glove box. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
     <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
     <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
 
@@ -20,4 +21,7 @@
     <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
     <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
 
+    <string name="continue_button">Continue</string>
+    <string name="restart">Restart</string>
+    <string name="end">The End.</string>
 </resources>
